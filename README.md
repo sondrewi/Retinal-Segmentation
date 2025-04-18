@@ -1,0 +1,1 @@
+Project Report Completed as part of Applied AI in Medical Imaging course at UCL. This was a group project, but the reports were individual. I was responsible for implementation of the multitask and mixture models.
